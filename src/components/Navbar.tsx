@@ -60,7 +60,7 @@ export function Navbar() {
                     exit={{ opacity: 0 }}
                   />
                 )}
-                <span className="relative z-10 text-slate-700 dark:text-slate-300">
+                <span className="relative z-10 text-silver-500 dark:text-silver-500">
                   {item.name}
                 </span>
               </motion.div>
