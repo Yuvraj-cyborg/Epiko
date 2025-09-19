@@ -70,7 +70,7 @@ export default function HomePage() {
           </motion.div>
 
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-b from-foreground to-muted-foreground bg-clip-text text-transparent">
-            Your AI Assistant
+            AI Assistant
             <br />
             <span className="bg-gradient-to-r from-muted-foreground to-foreground bg-clip-text text-transparent">
               Command Center
